@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+#profile {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#avatar {
+    width: auto;
+    height: auto;
+    border: 2px solid rgb(15, 15, 15);
+    border-radius: 50%;
+    overflow: hidden;
+    object-fit: cover;
+}
+
+button {
+    margin: 5px;
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#links {
+    margin-top: 20px;
+}
+
+a {
+    display: block;
+    margin-bottom: 10px;
+}
